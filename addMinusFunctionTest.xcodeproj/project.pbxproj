@@ -1,0 +1,410 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BAEC823119A1A72100C0CF67 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEC823019A1A72100C0CF67 /* AppDelegate.swift */; };
+		BAEC823319A1A72100C0CF67 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEC823219A1A72100C0CF67 /* ViewController.swift */; };
+		BAEC823619A1A72100C0CF67 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAEC823419A1A72100C0CF67 /* Main.storyboard */; };
+		BAEC823819A1A72100C0CF67 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAEC823719A1A72100C0CF67 /* Images.xcassets */; };
+		BAEC824419A1A72100C0CF67 /* addMinusFunctionTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEC824319A1A72100C0CF67 /* addMinusFunctionTestTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BAEC823E19A1A72100C0CF67 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BAEC822319A1A72100C0CF67 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BAEC822A19A1A72100C0CF67;
+			remoteInfo = addMinusFunctionTest;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		BAEC822B19A1A72100C0CF67 /* addMinusFunctionTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = addMinusFunctionTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BAEC822F19A1A72100C0CF67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BAEC823019A1A72100C0CF67 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BAEC823219A1A72100C0CF67 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BAEC823519A1A72100C0CF67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BAEC823719A1A72100C0CF67 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		BAEC823D19A1A72100C0CF67 /* addMinusFunctionTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = addMinusFunctionTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BAEC824219A1A72100C0CF67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BAEC824319A1A72100C0CF67 /* addMinusFunctionTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = addMinusFunctionTestTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BAEC822819A1A72100C0CF67 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BAEC823A19A1A72100C0CF67 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BAEC822219A1A72100C0CF67 = {
+			isa = PBXGroup;
+			children = (
+				BAEC822D19A1A72100C0CF67 /* addMinusFunctionTest */,
+				BAEC824019A1A72100C0CF67 /* addMinusFunctionTestTests */,
+				BAEC822C19A1A72100C0CF67 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BAEC822C19A1A72100C0CF67 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BAEC822B19A1A72100C0CF67 /* addMinusFunctionTest.app */,
+				BAEC823D19A1A72100C0CF67 /* addMinusFunctionTestTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BAEC822D19A1A72100C0CF67 /* addMinusFunctionTest */ = {
+			isa = PBXGroup;
+			children = (
+				BAEC823019A1A72100C0CF67 /* AppDelegate.swift */,
+				BAEC823219A1A72100C0CF67 /* ViewController.swift */,
+				BAEC823419A1A72100C0CF67 /* Main.storyboard */,
+				BAEC823719A1A72100C0CF67 /* Images.xcassets */,
+				BAEC822E19A1A72100C0CF67 /* Supporting Files */,
+			);
+			path = addMinusFunctionTest;
+			sourceTree = "<group>";
+		};
+		BAEC822E19A1A72100C0CF67 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BAEC822F19A1A72100C0CF67 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BAEC824019A1A72100C0CF67 /* addMinusFunctionTestTests */ = {
+			isa = PBXGroup;
+			children = (
+				BAEC824319A1A72100C0CF67 /* addMinusFunctionTestTests.swift */,
+				BAEC824119A1A72100C0CF67 /* Supporting Files */,
+			);
+			path = addMinusFunctionTestTests;
+			sourceTree = "<group>";
+		};
+		BAEC824119A1A72100C0CF67 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BAEC824219A1A72100C0CF67 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BAEC822A19A1A72100C0CF67 /* addMinusFunctionTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BAEC824719A1A72100C0CF67 /* Build configuration list for PBXNativeTarget "addMinusFunctionTest" */;
+			buildPhases = (
+				BAEC822719A1A72100C0CF67 /* Sources */,
+				BAEC822819A1A72100C0CF67 /* Frameworks */,
+				BAEC822919A1A72100C0CF67 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = addMinusFunctionTest;
+			productName = addMinusFunctionTest;
+			productReference = BAEC822B19A1A72100C0CF67 /* addMinusFunctionTest.app */;
+			productType = "com.apple.product-type.application";
+		};
+		BAEC823C19A1A72100C0CF67 /* addMinusFunctionTestTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BAEC824A19A1A72100C0CF67 /* Build configuration list for PBXNativeTarget "addMinusFunctionTestTests" */;
+			buildPhases = (
+				BAEC823919A1A72100C0CF67 /* Sources */,
+				BAEC823A19A1A72100C0CF67 /* Frameworks */,
+				BAEC823B19A1A72100C0CF67 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BAEC823F19A1A72100C0CF67 /* PBXTargetDependency */,
+			);
+			name = addMinusFunctionTestTests;
+			productName = addMinusFunctionTestTests;
+			productReference = BAEC823D19A1A72100C0CF67 /* addMinusFunctionTestTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BAEC822319A1A72100C0CF67 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+				ORGANIZATIONNAME = "Henry Freel";
+				TargetAttributes = {
+					BAEC822A19A1A72100C0CF67 = {
+						CreatedOnToolsVersion = 6.0;
+					};
+					BAEC823C19A1A72100C0CF67 = {
+						CreatedOnToolsVersion = 6.0;
+						TestTargetID = BAEC822A19A1A72100C0CF67;
+					};
+				};
+			};
+			buildConfigurationList = BAEC822619A1A72100C0CF67 /* Build configuration list for PBXProject "addMinusFunctionTest" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BAEC822219A1A72100C0CF67;
+			productRefGroup = BAEC822C19A1A72100C0CF67 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BAEC822A19A1A72100C0CF67 /* addMinusFunctionTest */,
+				BAEC823C19A1A72100C0CF67 /* addMinusFunctionTestTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BAEC822919A1A72100C0CF67 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BAEC823619A1A72100C0CF67 /* Main.storyboard in Resources */,
+				BAEC823819A1A72100C0CF67 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BAEC823B19A1A72100C0CF67 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BAEC822719A1A72100C0CF67 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BAEC823319A1A72100C0CF67 /* ViewController.swift in Sources */,
+				BAEC823119A1A72100C0CF67 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BAEC823919A1A72100C0CF67 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BAEC824419A1A72100C0CF67 /* addMinusFunctionTestTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BAEC823F19A1A72100C0CF67 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BAEC822A19A1A72100C0CF67 /* addMinusFunctionTest */;
+			targetProxy = BAEC823E19A1A72100C0CF67 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		BAEC823419A1A72100C0CF67 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BAEC823519A1A72100C0CF67 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BAEC824519A1A72100C0CF67 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BAEC824619A1A72100C0CF67 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BAEC824819A1A72100C0CF67 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = addMinusFunctionTest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BAEC824919A1A72100C0CF67 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = addMinusFunctionTest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		BAEC824B19A1A72100C0CF67 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = addMinusFunctionTestTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/addMinusFunctionTest.app/addMinusFunctionTest";
+			};
+			name = Debug;
+		};
+		BAEC824C19A1A72100C0CF67 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = addMinusFunctionTestTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/addMinusFunctionTest.app/addMinusFunctionTest";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BAEC822619A1A72100C0CF67 /* Build configuration list for PBXProject "addMinusFunctionTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BAEC824519A1A72100C0CF67 /* Debug */,
+				BAEC824619A1A72100C0CF67 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BAEC824719A1A72100C0CF67 /* Build configuration list for PBXNativeTarget "addMinusFunctionTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BAEC824819A1A72100C0CF67 /* Debug */,
+				BAEC824919A1A72100C0CF67 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		BAEC824A19A1A72100C0CF67 /* Build configuration list for PBXNativeTarget "addMinusFunctionTestTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BAEC824B19A1A72100C0CF67 /* Debug */,
+				BAEC824C19A1A72100C0CF67 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BAEC822319A1A72100C0CF67 /* Project object */;
+}
