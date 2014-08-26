@@ -12,6 +12,16 @@
 		BAEC823619A1A72100C0CF67 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAEC823419A1A72100C0CF67 /* Main.storyboard */; };
 		BAEC823819A1A72100C0CF67 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAEC823719A1A72100C0CF67 /* Images.xcassets */; };
 		BAEC824419A1A72100C0CF67 /* addMinusFunctionTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEC824319A1A72100C0CF67 /* addMinusFunctionTestTests.swift */; };
+		BAEC825719A1ABDE00C0CF67 /* ProximaNova-LightIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = BAEC824D19A1ABDE00C0CF67 /* ProximaNova-LightIt.otf */; };
+		BAEC825819A1ABDE00C0CF67 /* ProximaNova-SemiboldIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = BAEC824E19A1ABDE00C0CF67 /* ProximaNova-SemiboldIt.otf */; };
+		BAEC825919A1ABDE00C0CF67 /* ProximaNova-Extrabld.otf in Resources */ = {isa = PBXBuildFile; fileRef = BAEC824F19A1ABDE00C0CF67 /* ProximaNova-Extrabld.otf */; };
+		BAEC825A19A1ABDE00C0CF67 /* ProximaNova-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = BAEC825019A1ABDE00C0CF67 /* ProximaNova-Black.otf */; };
+		BAEC825B19A1ABDE00C0CF67 /* ProximaNova-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = BAEC825119A1ABDE00C0CF67 /* ProximaNova-Semibold.otf */; };
+		BAEC825C19A1ABDE00C0CF67 /* ProximaNova-RegularIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = BAEC825219A1ABDE00C0CF67 /* ProximaNova-RegularIt.otf */; };
+		BAEC825D19A1ABDE00C0CF67 /* ProximaNova-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = BAEC825319A1ABDE00C0CF67 /* ProximaNova-Bold.otf */; };
+		BAEC825E19A1ABDE00C0CF67 /* ProximaNova-BoldIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = BAEC825419A1ABDE00C0CF67 /* ProximaNova-BoldIt.otf */; };
+		BAEC825F19A1ABDE00C0CF67 /* ProximaNova-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = BAEC825519A1ABDE00C0CF67 /* ProximaNova-Regular.otf */; };
+		BAEC826019A1ABDE00C0CF67 /* ProximaNova-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = BAEC825619A1ABDE00C0CF67 /* ProximaNova-Light.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +44,16 @@
 		BAEC823D19A1A72100C0CF67 /* addMinusFunctionTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = addMinusFunctionTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAEC824219A1A72100C0CF67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BAEC824319A1A72100C0CF67 /* addMinusFunctionTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = addMinusFunctionTestTests.swift; sourceTree = "<group>"; };
+		BAEC824D19A1ABDE00C0CF67 /* ProximaNova-LightIt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-LightIt.otf"; sourceTree = "<group>"; };
+		BAEC824E19A1ABDE00C0CF67 /* ProximaNova-SemiboldIt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-SemiboldIt.otf"; sourceTree = "<group>"; };
+		BAEC824F19A1ABDE00C0CF67 /* ProximaNova-Extrabld.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Extrabld.otf"; sourceTree = "<group>"; };
+		BAEC825019A1ABDE00C0CF67 /* ProximaNova-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Black.otf"; sourceTree = "<group>"; };
+		BAEC825119A1ABDE00C0CF67 /* ProximaNova-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Semibold.otf"; sourceTree = "<group>"; };
+		BAEC825219A1ABDE00C0CF67 /* ProximaNova-RegularIt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-RegularIt.otf"; sourceTree = "<group>"; };
+		BAEC825319A1ABDE00C0CF67 /* ProximaNova-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Bold.otf"; sourceTree = "<group>"; };
+		BAEC825419A1ABDE00C0CF67 /* ProximaNova-BoldIt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-BoldIt.otf"; sourceTree = "<group>"; };
+		BAEC825519A1ABDE00C0CF67 /* ProximaNova-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Regular.otf"; sourceTree = "<group>"; };
+		BAEC825619A1ABDE00C0CF67 /* ProximaNova-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Light.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +80,7 @@
 				BAEC822D19A1A72100C0CF67 /* addMinusFunctionTest */,
 				BAEC824019A1A72100C0CF67 /* addMinusFunctionTestTests */,
 				BAEC822C19A1A72100C0CF67 /* Products */,
+				BAEC826119A1ABE900C0CF67 /* fonts */,
 			);
 			sourceTree = "<group>";
 		};
@@ -107,6 +128,23 @@
 				BAEC824219A1A72100C0CF67 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BAEC826119A1ABE900C0CF67 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				BAEC824D19A1ABDE00C0CF67 /* ProximaNova-LightIt.otf */,
+				BAEC824E19A1ABDE00C0CF67 /* ProximaNova-SemiboldIt.otf */,
+				BAEC824F19A1ABDE00C0CF67 /* ProximaNova-Extrabld.otf */,
+				BAEC825019A1ABDE00C0CF67 /* ProximaNova-Black.otf */,
+				BAEC825119A1ABDE00C0CF67 /* ProximaNova-Semibold.otf */,
+				BAEC825219A1ABDE00C0CF67 /* ProximaNova-RegularIt.otf */,
+				BAEC825319A1ABDE00C0CF67 /* ProximaNova-Bold.otf */,
+				BAEC825419A1ABDE00C0CF67 /* ProximaNova-BoldIt.otf */,
+				BAEC825519A1ABDE00C0CF67 /* ProximaNova-Regular.otf */,
+				BAEC825619A1ABDE00C0CF67 /* ProximaNova-Light.otf */,
+			);
+			name = fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -189,8 +227,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAEC825D19A1ABDE00C0CF67 /* ProximaNova-Bold.otf in Resources */,
+				BAEC825C19A1ABDE00C0CF67 /* ProximaNova-RegularIt.otf in Resources */,
+				BAEC825E19A1ABDE00C0CF67 /* ProximaNova-BoldIt.otf in Resources */,
 				BAEC823619A1A72100C0CF67 /* Main.storyboard in Resources */,
+				BAEC825719A1ABDE00C0CF67 /* ProximaNova-LightIt.otf in Resources */,
+				BAEC826019A1ABDE00C0CF67 /* ProximaNova-Light.otf in Resources */,
+				BAEC825A19A1ABDE00C0CF67 /* ProximaNova-Black.otf in Resources */,
+				BAEC825F19A1ABDE00C0CF67 /* ProximaNova-Regular.otf in Resources */,
+				BAEC825819A1ABDE00C0CF67 /* ProximaNova-SemiboldIt.otf in Resources */,
+				BAEC825919A1ABDE00C0CF67 /* ProximaNova-Extrabld.otf in Resources */,
 				BAEC823819A1A72100C0CF67 /* Images.xcassets in Resources */,
+				BAEC825B19A1ABDE00C0CF67 /* ProximaNova-Semibold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
