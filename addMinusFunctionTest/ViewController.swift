@@ -52,7 +52,7 @@ class ViewController: UIViewController {
             minusButton.hidden = false
             number += 1
             numberLabel.text = "\(number)"
-            println("shiiiiiit")
+            println("boom")
         }
         
     }
@@ -74,7 +74,7 @@ class ViewController: UIViewController {
             plusButton.hidden = false
             number -= 1
             numberLabel.text = "\(number)"
-            println("fucccckkkkk")
+            println("whats that")
             
         }
     }
